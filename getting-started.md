@@ -34,13 +34,16 @@ Make sure that you have the following items installed:
 - GCC
 - GRUB Multiboot
 - Makefile
-- QEMU
+- QEMU (optional, but required to run it via the Makefile)
 
 {: .note }
-The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace qemu-system-x86_64 in the compiler shell script with your version of QEMU.
+The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace `qemu-system-x86_64` in the compiler shell script with your version of QEMU.
 
 ### MacOS
-We don't have an actual guide for MacOS (We've never built on it before), but instead we recommend a Linux VM (Ubuntu 24.04 LTS) and then to follow the [Linux requirements](#linux-and-wsl).
+We don't have an actual guide for MacOS (We've never built on it before), but instead, we recommend a Linux VM (Ubuntu 24.04 LTS) and then to follow the [Linux requirements](#linux-and-wsl).
+
+### Other Operating Systems.
+This will vary heavily from system-to-system, but you'll need to make sure your operating system has a version of GCC, NASM, Makefile, GRUB Multiboot, and (optionally) QEMU or any similar x86(-64) virtual machine software.
 
 ## Building
 To build the latest version of ChoacuryOS, first download this repository.
