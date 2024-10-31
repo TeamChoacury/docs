@@ -12,6 +12,7 @@ nav_order: 2
 There are different requirements based on what platform you are on.
 
 Base requirements:
+
 | Item         | Requirement |
 | :----------- | :---------- |
 | Base Memory  | 64 MB       |
