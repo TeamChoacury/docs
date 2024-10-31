@@ -39,10 +39,21 @@ Make sure that you have the folling items installed:
 {: .note }
 The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace qemu-system-x86_64 in the compiler shell script with your version of QEMU.
 
+### MacOS
+We don't have an actual guide for MacOS (We've never built on it before), but instead we recommend a Linux VM (Ubuntu 24.04 LTS) and then to follow the [Linux requirements](#linux-and-wsl).
+
 ## Building
-To build the latest version of ChoacuryOS, download this repository.
+To build the latest version of ChoacuryOS, first download this repository.
 Inside of your WSL instance, you need to navigate to where the route of the repository is on your Windows computer (`/mnt/`), make sure that the folder contains `compile.sh`, `compile_no_audio.sh` and `create-disk.sh`, if it does not and it contains folders such as `drivers`, you have gone too far, go up a level.
 
 Make sure that you have the [correct requirements](#requirements) installed before continuing with this guide any futher, as without having the correct software installed, it will not work.
 
+Inside of your WSL instance, it should now be in the correct directory, run `ls` to make sure that it contains all of the right scripts as mentioned above.
+
+You can either run `sh compile.sh` or `sh compile_no_audio.sh`, you may need to append `sudo` to the beginning of the command for it to work however.
+You should notice that it opens a QEMU window, you should be able to click inside of the QEMU window and then you will need to press return when GRUB pops up, as long as "Start Choacury" is selected.
+
+You have now built and run the latest version of ChoacuryOS, type `help` to view all of the available commands.
+
+To exit, press `CTRL+C` in the console or close the QEMU window (You may need to press CTRL+ALT+G to be able to do so).
 ## Development & Contribution
