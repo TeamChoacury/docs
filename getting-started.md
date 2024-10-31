@@ -11,7 +11,7 @@ nav_order: 2
 ## Requirements
 There are different requirements based on what platform you are on.
 
-Base requirements:
+Base requirements to be able to run ChoacuryOS (Make sure your VM has these):
 
 | Item         | Requirement |
 | :----------- | :---------- |
@@ -29,7 +29,7 @@ When you are sure that you have WSL set up, you can continue on to the [Linux pa
 ### Linux (And WSL)
 **We recommend Ubuntu 24.04 LTS as we are sure that it works**.
 
-Make sure that you have the folling items installed:
+Make sure that you have the following items installed:
 - NASM
 - GCC
 - GRUB Multiboot
