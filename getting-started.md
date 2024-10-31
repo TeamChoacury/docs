@@ -34,13 +34,16 @@ Make sure that you have the following items installed:
 - GCC
 - GRUB Multiboot
 - Makefile
-- QEMU (optional, but required to run it via the Makefile)
+- QEMU
 
 {: .note }
-The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace qemu-system-x86_64 in the compiler shell script with your version of QEMU.
+The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace `qemu-system-x86_64` in the compiler shell script with your version of QEMU.
 
 ### MacOS
-We don't have an actual guide for MacOS (We've never built on it before), but instead we recommend a Linux VM (Ubuntu 24.04 LTS) and then to follow the [Linux requirements](#linux-and-wsl).
+We don't have an actual guide for MacOS (We've never built on it before), but instead, we recommend a Linux VM (Ubuntu 24.04 LTS) and then to follow the [Linux requirements](#linux-and-wsl).
+
+### Other Operating Systems.
+This will vary heavily from system-to-system, but you'll need to make sure your operating system has a version of GCC, NASM, Makefile, GRUB Multiboot, and (optionally) QEMU or any similar x86(-64) virtual machine software.
 
 ## Building
 To build the latest version of ChoacuryOS, first download this repository.
@@ -56,7 +59,6 @@ You should notice that it opens a QEMU window, you should be able to click insid
 You have now built and run the latest version of ChoacuryOS, type `help` to view all of the available commands.
 
 To exit, press `CTRL+C` in the console or close the QEMU window (You may need to press CTRL+ALT+G to be able to do so).
-
 ## Development & Contribution
 If you would like to help out, feel free to contribute to the project! (We have a Trello board but you will need to ask for access). You can also modify Choacury to your liking if you would to make your own OS! You may also join the [development server](https://discord.gg/qhgDWrzCvg) if you would like to.
 
