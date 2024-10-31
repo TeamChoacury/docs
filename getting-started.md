@@ -1,6 +1,7 @@
 ---
 title: Getting started
 layout: home
+nav_order: 2
 ---
 
 # Getting started with ChoacuryOS
@@ -12,7 +13,7 @@ There are different requirements based on what platform you are on.
 
 Base requirements:
 | Item         | Requirement |
-| ------------ | ----------- |
+| :----------- | :---------- |
 | Base Memory  | 64 MB       |
 | Video Memory | 9 MB        |
 | Hard Disk    | 2 GB        |
@@ -34,8 +35,8 @@ Make sure that you have the folling items installed:
 - Makefile
 - QEMU
 
-> [!NOTE]  
-> The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace qemu-system-x86_64 in the compiler shell script with your version of QEMU.
+{: .note }
+The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace qemu-system-x86_64 in the compiler shell script with your version of QEMU.
 
 ## Building
 To build the latest version of ChoacuryOS, download this repository.
