@@ -36,8 +36,8 @@ Make sure that you have the following items installed:
 - Makefile
 - QEMU
 
-{: .note }
-The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace `qemu-system-x86_64` in the compiler shell script with your version of QEMU.
+{: .important }
+> The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace `qemu-system-x86_64` in the compiler shell script with your version of QEMU.
 
 ### MacOS
 We don't have an actual guide for MacOS (We've never built on it before), but instead, we recommend a Linux VM (Ubuntu 24.04 LTS) and then to follow the [Linux requirements](#linux-and-wsl).
