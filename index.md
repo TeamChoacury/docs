@@ -27,24 +27,36 @@ Here are the developers of ChoacuryOS (If you're not on here, tell us on the Dis
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/101128219?v=4" alt="Member 1" width="150" /><br>
+      <img src="https://avatars.githubusercontent.com/u/101128219?v=4" alt="Pineconium" width="150"
+        style="border-radius: 1rem" /><br>
       <strong>Pineconium</strong><br>
       <b>Head Developer</b> (Kernel, Software and GUI developer)<br>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/69386111?v=4" alt="Member 2" width="150" /><br>
+      <img src="https://avatars.githubusercontent.com/u/69386111?v=4" alt="MrBisquit" width="150"
+        style="border-radius: 1rem" /><br>
       <strong>MrBisquit (WTDawson)</strong><br>
       <b>Developer</b> (Kernel, Software, GUI and Website developer)<br>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/68776844?v=4" alt="Member 3" width="150"/><br>
+      <img src="https://avatars.githubusercontent.com/u/68776844?v=4" alt="Bananymous" width="150"
+        style="border-radius: 1rem" /><br>
       <strong>Bananymous (Oskari Alaranta)</strong><br>
       <b>Developer</b> (Kernel and Software developer)<br>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/152309277?v=4" alt="Member 3" width="150"/><br>
+      <img src="https://avatars.githubusercontent.com/u/152309277?v=4" alt="Keiran-brooks" width="150" 
+        style="border-radius: 1rem" /><br>
       <strong>Keiran-brooks (Keiran)</strong><br>
       <b>Developer</b> (Kernel, Software, GUI and Website developer)<br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/87710726?v=4" alt="vuk5002" width="150"
+        style="border-radius: 1rem" /><br>
+      <strong>vuk5002 (VulaSuma)</strong><br>
+      <b>Developer</b> (Kernel, Software and GUI developer)<br>
     </td>
   </tr>
   <!-- Add more rows as needed -->

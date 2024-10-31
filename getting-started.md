@@ -6,7 +6,7 @@ nav_order: 2
 
 # Getting started with ChoacuryOS
 
-**GitHub repository link: https://github.com/Pineconium/ChoacuryOS**
+**GitHub repository link: [https://github.com/Pineconium/ChoacuryOS](https://github.com/Pineconium/ChoacuryOS)**
 
 ## Requirements
 There are different requirements based on what platform you are on.
@@ -34,7 +34,7 @@ Make sure that you have the following items installed:
 - GCC
 - GRUB Multiboot
 - Makefile
-- QEMU
+- QEMU (optional, but required to run it via the Makefile)
 
 {: .note }
 The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace qemu-system-x86_64 in the compiler shell script with your version of QEMU.
@@ -56,4 +56,15 @@ You should notice that it opens a QEMU window, you should be able to click insid
 You have now built and run the latest version of ChoacuryOS, type `help` to view all of the available commands.
 
 To exit, press `CTRL+C` in the console or close the QEMU window (You may need to press CTRL+ALT+G to be able to do so).
+
 ## Development & Contribution
+If you would like to help out, feel free to contribute to the project! (We have a Trello board but you will need to ask for access). You can also modify Choacury to your liking if you would to make your own OS! You may also join the [development server](https://discord.gg/qhgDWrzCvg) if you would like to.
+
+We also have a Figma board that you may ask to access in the Discord server mentioned above.
+
+You must:
+- Make sure that the name of commits make sense and reflect the changes it contains
+- Document your additions (We have a documentation repository) and add comments where needed
+
+You must not:
+- Remove any other code without asking first (Refactoring or cleaning up is okay).
