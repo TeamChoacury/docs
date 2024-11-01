@@ -20,22 +20,22 @@ Some commands may not be included if:
 
 Commands marked with "Not implemented" are waiting to be implemented but are not yet.
 
-| Command    | Aliases | Link                |
-| :--------- | :------ | :------------------ |
-| `help`     |         | [Info](help.md)     |
-| `beep`     |         | [Info](help.md)     |
-| `calc`     |         | [Info](calc.md)     |
-| `cat`      |         | [Info](cat.md)      |
-| `cd`       |         | [Info](cd.md)       |
-| `compdate` |         | [Info](compdate.md) |
-| `echo`     |         | [Info](echo.md)     |
-| `guiload`  |         | [Info](guiload.md)  |
-| `ls`       |         | [Info](ls.md)       |
-| `mkdir`    |         | Not implemented     |
-| `pause`    |         | [Info](pause.md)    |
-| `pl`       |         | [Info](pl.md)       |
-| `chstat`   |         | [Info](chstat.md)   |
-| `whereami` |         | [Info](whereami.md) |
+| Command    | Aliases | Link             |
+| :--------- | :------ | :--------------- |
+| `help`     |         | [Info](help)     |
+| `beep`     |         | [Info](help)     |
+| `calc`     |         | [Info](calc)     |
+| `cat`      |         | [Info](cat)      |
+| `cd`       |         | [Info](cd)       |
+| `compdate` |         | [Info](compdate) |
+| `echo`     |         | [Info](echo)     |
+| `guiload`  |         | [Info](guiload)  |
+| `ls`       |         | [Info](ls)       |
+| `mkdir`    |         | Not implemented  |
+| `pause`    |         | [Info](pause)    |
+| `pl`       |         | [Info](pl)       |
+| `chstat`   |         | [Info](chstat)   |
+| `whereami` |         | [Info](whereami) |
 
 Excluded commands: `clear`, `vbetest`
 

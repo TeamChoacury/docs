@@ -1,8 +1,8 @@
 ---
-title: Commands
+title: Help command
 layout: home
-nav_order: 2
-parent: "ChoacuryOS"
+nav_order: 1
+parent: "Commands"
 ---
 
 # `help` command
