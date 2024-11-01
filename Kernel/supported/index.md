@@ -17,4 +17,4 @@ parent: "Kernel"
 | PS/2           | PS/2 Mouse & Keyboard support | [Documentation](), [Source]() |
 | VGA            |              Yes              | [Documentation](), [Source]() |
 | VBE            |              Yes              | [Documentation](), [Source]() |
-| vmware svga ii |             Todo              | N/A                           |
+| VMWare svga ii |             Todo              | N/A                           |
