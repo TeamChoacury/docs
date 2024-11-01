@@ -1,7 +1,7 @@
 ---
 title: Getting started
 layout: home
-nav_order: 2
+nav_order: 3
 ---
 
 # Getting started with ChoacuryOS
@@ -36,7 +36,7 @@ Make sure that you have the following items installed:
 - Makefile
 - QEMU
 
-{: .important }
+{: .warning }
 > The compiler uses the x86_64 version of QEMU. If you don't use that version of QEMU, replace `qemu-system-x86_64` in the compiler shell script with your version of QEMU.
 
 ### MacOS
