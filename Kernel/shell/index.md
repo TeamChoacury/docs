@@ -17,6 +17,8 @@ Limits of the shell:
 
 ## How the shell works
 
+![Shell flow](<../../diagrams/kernel/shell/flow.png>)
+
 ## `shell.c`
 
 ### Includes

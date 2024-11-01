@@ -58,7 +58,7 @@ You should notice that it opens a QEMU window, you should be able to click insid
 
 You have now built and run the latest version of ChoacuryOS, type `help` to view all of the available commands.
 
-To exit, press `CTRL+C` in the console or close the QEMU window (You may need to press CTRL+ALT+G to be able to do so).
+To exit, press `CTRL+C` in the console or close the QEMU window (You may need to press `CTRL+ALT+G` to be able to do so).
 ## Development & Contribution
 If you would like to help out, feel free to contribute to the project! (We have a Trello board but you will need to ask for access). You can also modify Choacury to your liking if you would to make your own OS! You may also join the [development server](https://discord.gg/qhgDWrzCvg) if you would like to.
 
