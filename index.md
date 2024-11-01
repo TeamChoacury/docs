@@ -22,6 +22,8 @@ Currently, Choacury only works best with virtual machines. However, you *can* us
 
 To get started with ChoacuryOS, please [read our documentation](/getting-started.md).
 
+![Meet our tools](<meet-our-tools.png>)
+
 ## Developers
 Here are the developers of ChoacuryOS (If you're not on here, tell us on the Discord server and we can add you)
 <table>

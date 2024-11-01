@@ -23,7 +23,7 @@ Commands marked with "Not implemented" are waiting to be implemented but are not
 | Command    | Aliases | Link             |
 | :--------- | :------ | :--------------- |
 | `help`     |         | [Info](help)     |
-| `beep`     |         | [Info](help)     |
+| `beep`     |         | [Info](beep)     |
 | `calc`     |         | [Info](calc)     |
 | `cat`      |         | [Info](cat)      |
 | `cd`       |         | [Info](cd)       |
