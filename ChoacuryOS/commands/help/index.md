@@ -27,12 +27,12 @@ This means that the argument must be a string.
 ## Examples (Screenshots)
 This is what the base `help` command looks like:
 
-![Help command](../../screenshots/commands/help/base.png)
+![Help command](../../../screenshots/commands/help/base.png)
 
 And this is what parsing the `<command name/alias>` argument looks like:
 
-![Help command](../../screenshots/commands/help/arg1.png)
+![Help command](../../../screenshots/commands/help/arg1.png)
 
 And then also parsing the `(args)` argument looks like this:
 
-![Help command](../../screenshots/commands/help/arg2.png)
+![Help command](../../../screenshots/commands/help/arg2.png)
