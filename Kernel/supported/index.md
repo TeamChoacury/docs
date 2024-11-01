@@ -6,8 +6,11 @@ parent: "Kernel"
 ---
 
 # Supported devices
+- PC Speaker
+- PS/2 Keyboard & Mouse
 
 # Drivers
+
 | Name |          Implemented          | Links                         |
 | :--- | :---------------------------: | :---------------------------- |
 | FAT  |           Partially           | [Documentation](), [Source]() |
