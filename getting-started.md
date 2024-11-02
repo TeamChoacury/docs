@@ -72,6 +72,6 @@ You must not:
 - Remove any other code without asking first (Refactoring or cleaning up is okay).
 
 ### Links & Resources
-- [Choacury documentation]()
-- [Choacury internal documentation]() (For internal functions)
-- [Supported devices/drivers]()
+- [Choacury documentation](../ChoacuryOS/)
+- [Choacury internal documentation](../Kernel/) (For internal functions)
+- [Supported devices/drivers](../Kernel/supported)

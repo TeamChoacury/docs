@@ -29,8 +29,6 @@ Headers included in `vmsvga.c`
 - `../../types.h`
 - `./../debug.h`
 
-
-
 ### Functions
 Functions declared in `vmsvga.c`
 
@@ -46,8 +44,8 @@ List:
 - `set_display_mode`
 - `increment_fifo_next_cmd`
 - `fifo_cmd_update`
-Notes:
 
+Notes:
  - ¹ These functions should only be called once per system startup.
  - ² Do not use these functions if you dont know what are you doing with the GPU!
 
