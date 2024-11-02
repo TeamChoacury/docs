@@ -1,7 +1,7 @@
 ---
 title: pl
 layout: home
-nav_order: 7
+nav_order: 12
 parent: "Commands"
 ---
 
