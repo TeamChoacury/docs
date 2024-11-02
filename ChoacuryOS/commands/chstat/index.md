@@ -1,5 +1,5 @@
 ---
-title: chstat command
+title: chstat
 layout: home
 nav_order: 13
 parent: "Commands"
