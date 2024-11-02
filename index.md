@@ -59,6 +59,7 @@ Here are the developers of ChoacuryOS (If you're not on here, tell us on the Dis
         style="border-radius: 1rem" /><br>
       <strong>vuk5002 (VulaSuma)</strong><br>
       <b>Developer</b> (Kernel, Software and GUI developer)<br>
+      <b>Our drivers guy</b>
     </td>
   </tr>
   <!-- Add more rows as needed -->
