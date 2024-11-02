@@ -1,7 +1,7 @@
 ---
 title: `chstat` command
 layout: home
-nav_order: 1
+nav_order: 13
 parent: "Commands"
 ---
 
