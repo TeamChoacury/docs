@@ -1,5 +1,5 @@
 ---
-title: Help command
+title: `help` command
 layout: home
 nav_order: 1
 parent: "Commands"
