@@ -9,6 +9,8 @@ parent: "Kernel"
 - PC Speaker
 - PS/2 Keyboard & Mouse
 
+ʕ•ᴥ•ʔ
+
 # Drivers
 
 | Name           |          Implemented          | Links                                            |
