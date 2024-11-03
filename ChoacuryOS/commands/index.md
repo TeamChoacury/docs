@@ -43,3 +43,4 @@ Commands may be added by packages that are installed.
 
 ## Helpful tips for using the shell
 - The shell keeps track of what commands you have run, so you can easily use the up and down arrows to cycle through them.
+- (╯°□°)╯︵ ┻━┻

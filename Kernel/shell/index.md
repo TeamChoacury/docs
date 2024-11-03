@@ -15,6 +15,8 @@ Limits of the shell:
 | Arguments      | 128 characters |
 | Directory path | 256 characters |
 
+However, these shell limits are subject to change ( ͡° ͜ʖ ͡°)
+
 ## How the shell works
 
 ![Shell flow](<../../diagrams/kernel/shell/flow.png>)
