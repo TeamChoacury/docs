@@ -30,6 +30,7 @@ Definitions declared in `vbe.c`
 - `#define ADDRESS 0xFD000000`¹
 - `#define FONT_WIDTH 8`²
 - `#define FONT_HEIGHT 16`²
+
 Notes:
 - ¹ This shouldn't be hardcoded, but in most QEMU versions this is where the LFB address is.
 - ² Hardcoded for the PSF1 font
@@ -61,8 +62,8 @@ List:
 - `set_cursor`
 - `BgaWriteRegister`¹
 - `BgaReadRegister`¹
-Notes:
 
+Notes:
  - ¹ Do not use these functions if you dont know what are you doing with the GPU!
 
 Definitions:
@@ -149,9 +150,6 @@ typedef struct {
 
 ```
 
-
 ### Includes
 Headers included in `vbe.h`
 - `types.h`
-
-
