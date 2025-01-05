@@ -2,7 +2,7 @@
 title: guiload
 layout: home
 nav_order: 1
-parent: "ChoacuryOS"
+parent: "Commands"
 ---
 # `guiload` command
 {: .warning }
