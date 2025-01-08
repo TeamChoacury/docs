@@ -59,7 +59,7 @@ Here are the developers of ChoacuryOS (If you're not on here, tell us on the Dis
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/87710726?v=4" alt="vuk5002" width="150"
         style="border-radius: 1rem" /><br>
-      <strong>vuk5002 (VulaSuma)</strong><br>
+      <strong>vuk5002 (VuleSuma)</strong><br>
       <b>Developer</b> (Kernel, Software and GUI developer)<br>
       <b>Our drivers guy</b>
     </td>
